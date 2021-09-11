@@ -1,4 +1,4 @@
-# FragmentReplaceExample
+# Fragment Replace Example
 ## How use fragment for Android example
 <p>
 <img src="https://github.com/yakupbilgen/FragmentReplaceExample/blob/master/app/src/main/res/drawable-v24/uiOne.png" height="480" width="240"/>
